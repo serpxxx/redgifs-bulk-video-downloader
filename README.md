@@ -1,5 +1,11 @@
 # RedGifs Bulk Video Downloader
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=001quTeSQDM" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-redgifs-videos.jpg" width="700px">
+</a>
+
 RedGifs Bulk Video Downloader is a bulk video downloader and metadata extractor for RedGifs video URLs. Paste RedGifs watch links, iframe links, or raw RedGifs IDs and get structured results with titles, descriptions, tags, thumbnails, available formats, selected quality, direct MP4 URLs, and optional hosted file download links.
 
 👉 Get it Here: https://serp.ly/redgifs-bulk-video-downloader
