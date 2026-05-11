@@ -115,6 +115,12 @@ No. This tool is independent and is not affiliated with, endorsed by, or sponsor
 5. Open the dataset results and use `directVideoUrl` for the source MP4 link.
 6. If file downloads are enabled, use `storedFileUrl` as the clickable hosted download link.
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=001quTeSQDM" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-redgifs-videos.jpg" width="700px">
+</a>
+
 ## Links
 
 - Run it here: https://serp.ly/redgifs-bulk-video-downloader
